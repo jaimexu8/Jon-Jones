@@ -8,4 +8,4 @@ Because who has anything against Jon Jones? (oblique kicks and eye-poking aside)
 ## Features
  * Currently empty home page
  * About page where you can read his bio
- * Non-functioning merch store page
+ * Merch store page
